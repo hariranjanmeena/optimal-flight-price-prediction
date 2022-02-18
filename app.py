@@ -4,7 +4,7 @@ from time import strftime
 import pandas as pd
 import numpy as np
 
-model = pickle.load(open('models/xgb_model.pkl', 'rb'))
+model = pickle.load(open('models/dtree_model.pkl', 'rb'))
 sc = pickle.load(open('models/StandardScaler.pkl', 'rb'))
 ohe = pickle.load(open('models/OneHotEncoder.pkl', 'rb'))
 
