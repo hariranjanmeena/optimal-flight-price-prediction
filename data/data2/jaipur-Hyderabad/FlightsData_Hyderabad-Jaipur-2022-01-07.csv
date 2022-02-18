@@ -1,0 +1,4 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+IndiGo,7,1,2022,4,11:35,13:45,Hyderabad,Jaipur,2h 10m,E,direct,6133,20220106-1621,6133.333333333333,6133
+IndiGo,7,1,2022,4,20:15,22:35,Hyderabad,Jaipur,2h 20m,E,direct,6133,20220106-1621,6133.333333333333,6133
+AirAsia India,7,1,2022,4,09:25,11:20,Hyderabad,Jaipur,1h 55m,E,direct,6134,20220106-1621,6133.333333333333,6133

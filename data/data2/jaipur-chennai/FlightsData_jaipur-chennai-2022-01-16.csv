@@ -1,0 +1,16 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+AirAsia India,16,1,2022,6,12:25,15:25,jaipur,chennai,3h 00m,E,direct,4349,20211229-2018,6859.0,4249
+"IndiGo, Vistara",16,1,2022,6,06:20,08:50,jaipur,chennai,26h 30m,E,1 stop,7999,20211229-2018,6859.0,4249
+SpiceJet,16,1,2022,6,08:30,08:00,jaipur,chennai,23h 30m,E,1 stop,8000,20211229-2018,6859.0,4249
+IndiGo,16,1,2022,6,05:15,10:25,jaipur,chennai,5h 10m,E,1 stop,8000,20211229-2018,6859.0,4249
+IndiGo,16,1,2022,6,05:15,12:00,jaipur,chennai,6h 45m,E,1 stop,8000,20211229-2018,6859.0,4249
+AirAsia India,16,1,2022,6,17:15,08:30,jaipur,chennai,15h 15m,E,1 stop,8050,20211229-2018,6859.0,4249
+"IndiGo, Vistara",16,1,2022,6,19:45,08:50,jaipur,chennai,13h 05m,E,2 stops,8138,20211229-2018,6859.0,4249
+AirAsia India,16,1,2022,6,17:15,08:30,jaipur,chennai,15h 15m,E,2 stops,8468,20211229-2018,6859.0,4249
+"SpiceJet, IndiGo",16,1,2022,6,08:45,16:40,jaipur,chennai,7h 55m,E,1 stop,8617,20211229-2018,6859.0,4249
+"Air India, SpiceJet",16,1,2022,6,19:35,05:20,jaipur,chennai,9h 45m,E,2 stops,8757,20211229-2018,6859.0,4249
+"IndiGo, Vistara",16,1,2022,6,19:45,23:05,jaipur,chennai,27h 20m,E,2 stops,4249,20211229-2018,6859.0,4249
+Air India,16,1,2022,6,19:35,08:55,jaipur,chennai,13h 20m,E,1 stop,4848,20211229-2018,6859.0,4249
+"IndiGo, Vistara",16,1,2022,6,07:40,19:55,jaipur,chennai,36h 15m,E,3 stops,5135,20211229-2018,6859.0,4249
+IndiGo,16,1,2022,6,06:20,17:10,jaipur,chennai,10h 50m,E,1 stop,5136,20211229-2018,6859.0,4249
+"IndiGo, SpiceJet",16,1,2022,6,19:45,05:20,jaipur,chennai,9h 35m,E,2 stops,5139,20211229-2018,6859.0,4249

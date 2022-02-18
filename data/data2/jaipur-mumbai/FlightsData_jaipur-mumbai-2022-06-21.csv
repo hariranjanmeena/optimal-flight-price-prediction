@@ -1,0 +1,16 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+IndiGo,21,6,2022,1,07:45,16:35,jaipur,mumbai,8h 50m,E,1 stop,2215,20211229-2053,2559.4,2204
+IndiGo,21,6,2022,1,21:05,07:00,jaipur,mumbai,9h 55m,E,1 stop,2216,20211229-2053,2559.4,2204
+Air India,21,6,2022,1,14:00,15:50,jaipur,mumbai,1h 50m,E,direct,2216,20211229-2053,2559.4,2204
+IndiGo,21,6,2022,1,19:05,20:50,jaipur,mumbai,1h 45m,E,direct,2303,20211229-2053,2559.4,2204
+IndiGo,21,6,2022,1,14:15,16:05,jaipur,mumbai,1h 50m,E,direct,2366,20211229-2053,2559.4,2204
+SpiceJet,21,6,2022,1,19:20,21:35,jaipur,mumbai,2h 15m,E,direct,2426,20211229-2053,2559.4,2204
+AirAsia India,21,6,2022,1,10:25,12:25,jaipur,mumbai,2h 00m,E,direct,2446,20211229-2053,2559.4,2204
+AirAsia India,21,6,2022,1,20:25,22:25,jaipur,mumbai,2h 00m,E,direct,2449,20211229-2053,2559.4,2204
+GoFirst,21,6,2022,1,08:10,10:00,jaipur,mumbai,1h 50m,E,direct,4216,20211229-2053,2559.4,2204
+GoFirst,21,6,2022,1,18:45,20:45,jaipur,mumbai,2h 00m,E,direct,4233,20211229-2053,2559.4,2204
+IndiGo,21,6,2022,1,06:05,07:50,jaipur,mumbai,1h 45m,E,direct,2204,20211229-2053,2559.4,2204
+SpiceJet,21,6,2022,1,08:00,09:45,jaipur,mumbai,1h 45m,E,direct,2216,20211229-2053,2559.4,2204
+GoFirst,21,6,2022,1,12:40,16:25,jaipur,mumbai,3h 45m,E,1 stop,2216,20211229-2053,2559.4,2204
+GoFirst,21,6,2022,1,08:50,16:25,jaipur,mumbai,7h 35m,E,1 stop,2303,20211229-2053,2559.4,2204
+GoFirst,21,6,2022,1,12:40,21:10,jaipur,mumbai,8h 30m,E,1 stop,2366,20211229-2053,2559.4,2204

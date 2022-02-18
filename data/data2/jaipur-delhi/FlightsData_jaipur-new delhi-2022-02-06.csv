@@ -1,0 +1,16 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+Air India,6,2,2022,6,19:35,20:30,jaipur,new delhi,0h 55m,E,direct,1772,20211230-0903,2020.0,1772
+IndiGo,6,2,2022,6,19:30,20:25,jaipur,new delhi,0h 55m,E,direct,1896,20211230-0903,2020.0,1772
+IndiGo,6,2,2022,6,19:45,21:00,jaipur,new delhi,1h 15m,E,direct,1930,20211230-0903,2020.0,1772
+AirAsia India,6,2,2022,6,23:50,00:50,jaipur,new delhi,1h 00m,E,direct,1937,20211230-0903,2020.0,1772
+AirAsia India,6,2,2022,6,16:25,17:40,jaipur,new delhi,1h 15m,E,direct,1955,20211230-0903,2020.0,1772
+IndiGo,6,2,2022,6,07:40,08:35,jaipur,new delhi,0h 55m,E,direct,2054,20211230-0903,2020.0,1772
+SpiceJet,6,2,2022,6,09:40,10:40,jaipur,new delhi,1h 00m,E,direct,2068,20211230-0903,2020.0,1772
+IndiGo,6,2,2022,6,14:15,15:20,jaipur,new delhi,1h 05m,E,direct,2068,20211230-0903,2020.0,1772
+GoFirst,6,2,2022,6,08:45,14:35,jaipur,new delhi,5h 50m,E,1 stop,2101,20211230-0903,2020.0,1772
+GoFirst,6,2,2022,6,08:45,15:45,jaipur,new delhi,7h 00m,E,1 stop,2141,20211230-0903,2020.0,1772
+GoFirst,6,2,2022,6,08:45,16:35,jaipur,new delhi,7h 50m,E,1 stop,2187,20211230-0903,2020.0,1772
+GoFirst,6,2,2022,6,08:45,18:35,jaipur,new delhi,9h 50m,E,1 stop,2457,20211230-0903,2020.0,1772
+GoFirst,6,2,2022,6,08:45,20:10,jaipur,new delhi,11h 25m,E,1 stop,1772,20211230-0903,2020.0,1772
+GoFirst,6,2,2022,6,08:45,22:25,jaipur,new delhi,13h 40m,E,1 stop,1981,20211230-0903,2020.0,1772
+GoFirst,6,2,2022,6,21:45,12:10,jaipur,new delhi,14h 25m,E,1 stop,1981,20211230-0903,2020.0,1772

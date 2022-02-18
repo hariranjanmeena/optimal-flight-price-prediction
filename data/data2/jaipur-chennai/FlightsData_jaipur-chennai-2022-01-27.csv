@@ -1,0 +1,11 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+Air India,27,1,2022,3,19:35,08:55,jaipur,chennai,13h 20m,E,1 stop,3238,20211229-2116,4346.6,3238
+IndiGo,27,1,2022,3,19:00,06:30,jaipur,chennai,11h 30m,E,1 stop,3824,20211229-2116,4346.6,3238
+Air India,27,1,2022,3,13:30,08:55,jaipur,chennai,19h 25m,E,1 stop,3824,20211229-2116,4346.6,3238
+Air India,27,1,2022,3,13:30,10:55,jaipur,chennai,21h 25m,E,2 stops,3862,20211229-2116,4346.6,3238
+IndiGo,27,1,2022,3,04:50,06:30,jaipur,chennai,25h 40m,E,3 stops,3871,20211229-2116,4346.6,3238
+IndiGo,27,1,2022,3,08:50,06:30,jaipur,chennai,21h 40m,E,3 stops,3908,20211229-2116,4346.6,3238
+IndiGo,27,1,2022,3,04:50,07:40,jaipur,chennai,26h 50m,E,3 stops,4054,20211229-2116,4346.6,3238
+SpiceJet,27,1,2022,3,08:30,21:20,jaipur,chennai,12h 50m,E,1 stop,4094,20211229-2116,4346.6,3238
+"SpiceJet, Alaska Seaplanes",27,1,2022,3,09:40,09:10,jaipur,chennai,23h 30m,E,1 stop,4162,20211229-2116,4346.6,3238
+SpiceJet,27,1,2022,3,18:45,18:25,jaipur,chennai,23h 40m,E,1 stop,8629,20211229-2116,4346.6,3238

@@ -1,0 +1,12 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+Air India,27,5,2022,4,10:20,12:50,jaipur,Bengaluru,2h 30m,E,direct,3131,20211230-1700,16392.18181818182,3131
+IndiGo,27,5,2022,4,10:20,12:50,jaipur,Bengaluru,2h 30m,E,direct,3520,20211230-1700,16392.18181818182,3131
+GoFirst,27,5,2022,4,18:30,21:10,jaipur,Bengaluru,2h 40m,E,direct,3523,20211230-1700,16392.18181818182,3131
+Air India,27,5,2022,4,18:30,21:10,jaipur,Bengaluru,2h 40m,E,direct,4651,20211230-1700,16392.18181818182,3131
+Air India,27,5,2022,4,12:45,15:15,jaipur,Bengaluru,2h 30m,E,direct,4655,20211230-1700,16392.18181818182,3131
+"AirAsia India, SpiceJet",27,5,2022,4,12:45,15:15,jaipur,Bengaluru,2h 30m,E,direct,7305,20211230-1700,16392.18181818182,3131
+"AirAsia India, GoFirst",27,5,2022,4,17:00,23:55,jaipur,Bengaluru,6h 55m,E,1 stop,7693,20211230-1700,16392.18181818182,3131
+"AirAsia India, IndiGo",27,5,2022,4,17:00,23:55,jaipur,Bengaluru,6h 55m,E,1 stop,7893,20211230-1700,16392.18181818182,3131
+SpiceJet,27,5,2022,4,17:00,20:05,jaipur,Bengaluru,27h 05m,E,1 stop,31991,20211230-1700,16392.18181818182,3131
+SpiceJet,27,5,2022,4,17:00,20:05,jaipur,Bengaluru,27h 05m,E,1 stop,52422,20211230-1700,16392.18181818182,3131
+SpiceJet,27,5,2022,4,23:50,08:50,jaipur,Bengaluru,9h 00m,E,1 stop,53530,20211230-1700,16392.18181818182,3131

@@ -1,0 +1,16 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+Train,11,1,2022,1,03:10,13:15,jaipur,new delhi,10h 05m,E,1 change,463,20211229-2337,3238.8,463
+Train,11,1,2022,1,15:20,23:50,jaipur,new delhi,8h 30m,E,1 change,1388,20211229-2337,3238.8,463
+Air India,11,1,2022,1,19:35,20:30,jaipur,new delhi,0h 55m,E,direct,3077,20211229-2337,3238.8,463
+SpiceJet,11,1,2022,1,09:40,10:40,jaipur,new delhi,1h 00m,E,direct,3395,20211229-2337,3238.8,463
+Air India,11,1,2022,1,03:45,04:40,jaipur,new delhi,0h 55m,E,direct,3395,20211229-2337,3238.8,463
+AirAsia India,11,1,2022,1,23:50,00:50,jaipur,new delhi,1h 00m,E,direct,3764,20211229-2337,3238.8,463
+Air India,11,1,2022,1,13:30,14:30,jaipur,new delhi,1h 00m,E,direct,4250,20211229-2337,3238.8,463
+IndiGo,11,1,2022,1,19:45,21:00,jaipur,new delhi,1h 15m,E,direct,4916,20211229-2337,3238.8,463
+IndiGo,11,1,2022,1,07:40,08:35,jaipur,new delhi,0h 55m,E,direct,3049,20211229-2337,3238.8,463
+IndiGo,11,1,2022,1,14:15,15:20,jaipur,new delhi,1h 05m,E,direct,3310,20211229-2337,3238.8,463
+IndiGo,11,1,2022,1,17:00,10:25,jaipur,new delhi,17h 25m,E,1 stop,3366,20211229-2337,3238.8,463
+Air India,11,1,2022,1,14:00,20:25,jaipur,new delhi,6h 25m,E,1 stop,3366,20211229-2337,3238.8,463
+Air India,11,1,2022,1,14:00,21:15,jaipur,new delhi,7h 15m,E,1 stop,3498,20211229-2337,3238.8,463
+Air India,11,1,2022,1,14:00,23:30,jaipur,new delhi,9h 30m,E,1 stop,3602,20211229-2337,3238.8,463
+Air India,11,1,2022,1,14:00,08:55,jaipur,new delhi,18h 55m,E,1 stop,3743,20211229-2337,3238.8,463

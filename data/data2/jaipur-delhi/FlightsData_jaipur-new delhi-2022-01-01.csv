@@ -1,0 +1,8 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+AirAsia India,1,1,2022,5,23:50,00:50,jaipur,new delhi,1h 00m,E,direct,3523,20211229-2328,3805.285714285714,3523
+IndiGo,1,1,2022,5,19:30,20:25,jaipur,new delhi,0h 55m,E,direct,3746,20211229-2328,3805.285714285714,3523
+IndiGo,1,1,2022,5,07:40,08:35,jaipur,new delhi,0h 55m,E,direct,3747,20211229-2328,3805.285714285714,3523
+IndiGo,1,1,2022,5,19:45,21:00,jaipur,new delhi,1h 15m,E,direct,3747,20211229-2328,3805.285714285714,3523
+IndiGo,1,1,2022,5,14:15,15:20,jaipur,new delhi,1h 05m,E,direct,3797,20211229-2328,3805.285714285714,3523
+SpiceJet,1,1,2022,5,09:40,10:40,jaipur,new delhi,1h 00m,E,direct,3954,20211229-2328,3805.285714285714,3523
+Air India,1,1,2022,5,13:30,14:30,jaipur,new delhi,1h 00m,E,direct,4123,20211229-2328,3805.285714285714,3523

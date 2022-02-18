@@ -1,0 +1,16 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+GoFirst,1,2,2022,1,10:35,12:40,Hyderabad,Jaipur,2h 05m,E,direct,3782,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,11:35,13:45,Hyderabad,Jaipur,2h 10m,E,direct,6082,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,15:55,22:50,Hyderabad,Jaipur,6h 55m,E,1 stop,6131,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,22:50,08:25,Hyderabad,Jaipur,9h 35m,E,1 stop,6227,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,21:30,08:25,Hyderabad,Jaipur,10h 55m,E,1 stop,6716,20220106-1714,6094.6,3367
+SpiceJet,1,2,2022,1,21:40,20:35,Hyderabad,Jaipur,22h 55m,E,1 stop,7194,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,08:10,08:25,Hyderabad,Jaipur,24h 15m,E,1 stop,3367,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,17:45,23:30,Hyderabad,Jaipur,5h 45m,E,1 stop,6042,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,15:00,23:30,Hyderabad,Jaipur,8h 30m,E,1 stop,6093,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,15:25,08:25,Hyderabad,Jaipur,17h 00m,E,2 stops,6133,20220106-1714,6094.6,3367
+"Vistara, Air India",1,2,2022,1,13:25,19:10,Hyderabad,Jaipur,5h 45m,E,1 stop,6321,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,07:00,13:50,Hyderabad,Jaipur,6h 50m,E,1 stop,6457,20220106-1714,6094.6,3367
+IndiGo,1,2,2022,1,13:40,22:50,Hyderabad,Jaipur,9h 10m,E,1 stop,6485,20220106-1714,6094.6,3367
+"Vistara, IndiGo",1,2,2022,1,20:35,08:25,Hyderabad,Jaipur,11h 50m,E,1 stop,6485,20220106-1714,6094.6,3367
+"Vistara, Air India",1,2,2022,1,06:50,12:55,Hyderabad,Jaipur,6h 05m,E,1 stop,7904,20220106-1714,6094.6,3367

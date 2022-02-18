@@ -1,0 +1,16 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+IndiGo,23,4,2022,5,22:25,07:35,jaipur,chennai,9h 10m,E,1 stop,3976,20211229-2227,4408.2,3975
+Air India,23,4,2022,5,17:00,23:35,jaipur,chennai,6h 35m,E,1 stop,3978,20211229-2227,4408.2,3975
+AirAsia India,23,4,2022,5,20:10,22:50,jaipur,chennai,2h 40m,E,direct,4128,20211229-2227,4408.2,3975
+Air India,23,4,2022,5,07:35,23:35,jaipur,chennai,16h 00m,E,1 stop,4188,20211229-2227,4408.2,3975
+Air India,23,4,2022,5,20:35,23:35,jaipur,chennai,27h 00m,E,1 stop,4211,20211229-2227,4408.2,3975
+GoFirst,23,4,2022,5,08:10,20:40,jaipur,chennai,12h 30m,E,1 stop,4306,20211229-2227,4408.2,3975
+GoFirst,23,4,2022,5,18:45,07:45,jaipur,chennai,13h 00m,E,1 stop,5974,20211229-2227,4408.2,3975
+IndiGo,23,4,2022,5,17:05,00:25,jaipur,chennai,7h 20m,E,1 stop,5978,20211229-2227,4408.2,3975
+IndiGo,23,4,2022,5,09:55,12:35,jaipur,chennai,2h 40m,E,direct,3975,20211229-2227,4408.2,3975
+IndiGo,23,4,2022,5,17:05,22:05,jaipur,chennai,5h 00m,E,1 stop,4107,20211229-2227,4408.2,3975
+IndiGo,23,4,2022,5,14:10,20:20,jaipur,chennai,6h 10m,E,1 stop,4122,20211229-2227,4408.2,3975
+IndiGo,23,4,2022,5,19:50,02:05,jaipur,chennai,6h 15m,E,1 stop,4170,20211229-2227,4408.2,3975
+IndiGo,23,4,2022,5,14:10,21:40,jaipur,chennai,7h 30m,E,1 stop,4316,20211229-2227,4408.2,3975
+IndiGo,23,4,2022,5,07:35,15:40,jaipur,chennai,8h 05m,E,1 stop,4347,20211229-2227,4408.2,3975
+IndiGo,23,4,2022,5,14:10,23:20,jaipur,chennai,9h 10m,E,1 stop,4347,20211229-2227,4408.2,3975

@@ -1,0 +1,6 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+Train,5,1,2022,2,03:10,13:15,jaipur,new delhi,10h 05m,E,1 change,452,20211229-2331,2305.8,452
+Train,5,1,2022,2,15:20,23:50,jaipur,new delhi,8h 30m,E,1 change,1203,20211229-2331,2305.8,452
+Air India,5,1,2022,2,19:35,20:30,jaipur,new delhi,0h 55m,E,direct,3084,20211229-2331,2305.8,452
+IndiGo,5,1,2022,2,08:50,19:30,jaipur,new delhi,10h 40m,E,2 stops,3395,20211229-2331,2305.8,452
+IndiGo,5,1,2022,2,08:50,14:10,jaipur,new delhi,29h 20m,E,2 stops,3395,20211229-2331,2305.8,452

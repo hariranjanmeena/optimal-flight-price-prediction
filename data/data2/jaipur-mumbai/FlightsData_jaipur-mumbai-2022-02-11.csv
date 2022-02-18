@@ -1,0 +1,4 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+Air India,11,2,2022,4,14:00,15:50,jaipur,mumbai,1h 50m,E,direct,4129,20211229-1750,12245.0,4129
+SpiceJet,11,2,2022,4,22:15,23:50,jaipur,mumbai,1h 35m,E,direct,16303,20211229-1750,12245.0,4129
+SpiceJet,11,2,2022,4,08:30,10:35,jaipur,mumbai,2h 05m,E,direct,16303,20211229-1750,12245.0,4129

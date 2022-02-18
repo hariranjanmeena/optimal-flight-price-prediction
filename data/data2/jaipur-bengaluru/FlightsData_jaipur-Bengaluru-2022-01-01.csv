@@ -1,0 +1,16 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+IndiGo,1,1,2022,5,05:15,07:50,jaipur,Bengaluru,2h 35m,E,direct,7203,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,22:20,01:00,jaipur,Bengaluru,2h 40m,E,direct,7679,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,04:50,10:35,jaipur,Bengaluru,5h 45m,E,1 stop,7688,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,14:15,20:35,jaipur,Bengaluru,6h 20m,E,1 stop,7736,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,14:10,20:55,jaipur,Bengaluru,6h 45m,E,1 stop,7946,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,14:15,22:15,jaipur,Bengaluru,8h 00m,E,1 stop,8264,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,06:20,16:05,jaipur,Bengaluru,9h 45m,E,1 stop,9718,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,14:15,00:05,jaipur,Bengaluru,9h 50m,E,1 stop,6203,20211230-1158,7911.4,6203
+SpiceJet,1,1,2022,5,11:55,11:20,jaipur,Bengaluru,23h 25m,E,1 stop,7203,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,04:50,09:35,jaipur,Bengaluru,4h 45m,E,1 stop,7679,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,17:40,01:05,jaipur,Bengaluru,7h 25m,E,1 stop,7688,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,17:40,22:50,jaipur,Bengaluru,5h 10m,E,1 stop,7736,20211230-1158,7911.4,6203
+IndiGo,1,1,2022,5,06:20,11:20,jaipur,Bengaluru,5h 00m,E,1 stop,7946,20211230-1158,7911.4,6203
+AirAsia India,1,1,2022,5,11:50,23:15,jaipur,Bengaluru,11h 25m,E,1 stop,8264,20211230-1158,7911.4,6203
+GoFirst,1,1,2022,5,11:20,23:40,jaipur,Bengaluru,12h 20m,E,1 stop,9718,20211230-1158,7911.4,6203

@@ -1,0 +1,16 @@
+airlines,Date,Month,Year,Weekday,Dep_Time,Ar_Time,depr_Citie,Ar_Citie,Travel_Time,Airline_Cabin,no_stops,Price,timestamp,avg_Price,min_Price
+IndiGo,30,4,2022,5,22:20,00:50,jaipur,Bengaluru,2h 30m,E,direct,3520,20211230-1528,3996.2,3520
+IndiGo,30,4,2022,5,22:20,00:50,jaipur,Bengaluru,2h 30m,E,direct,3520,20211230-1528,3996.2,3520
+IndiGo,30,4,2022,5,05:30,08:00,jaipur,Bengaluru,2h 30m,E,direct,3520,20211230-1528,3996.2,3520
+GoFirst,30,4,2022,5,05:30,08:00,jaipur,Bengaluru,2h 30m,E,direct,3523,20211230-1528,3996.2,3520
+IndiGo,30,4,2022,5,18:30,21:10,jaipur,Bengaluru,2h 40m,E,direct,4019,20211230-1528,3996.2,3520
+IndiGo,30,4,2022,5,18:30,21:10,jaipur,Bengaluru,2h 40m,E,direct,4019,20211230-1528,3996.2,3520
+IndiGo,30,4,2022,5,12:45,15:15,jaipur,Bengaluru,2h 30m,E,direct,4019,20211230-1528,3996.2,3520
+IndiGo,30,4,2022,5,12:45,15:15,jaipur,Bengaluru,2h 30m,E,direct,4027,20211230-1528,3996.2,3520
+IndiGo,30,4,2022,5,14:15,18:55,jaipur,Bengaluru,4h 40m,E,1 stop,4041,20211230-1528,3996.2,3520
+IndiGo,30,4,2022,5,14:15,18:55,jaipur,Bengaluru,4h 40m,E,1 stop,4041,20211230-1528,3996.2,3520
+SpiceJet,30,4,2022,5,19:05,00:05,jaipur,Bengaluru,5h 00m,E,1 stop,4298,20211230-1528,3996.2,3520
+GoFirst,30,4,2022,5,19:05,00:05,jaipur,Bengaluru,5h 00m,E,1 stop,4349,20211230-1528,3996.2,3520
+GoFirst,30,4,2022,5,14:15,21:05,jaipur,Bengaluru,6h 50m,E,1 stop,4349,20211230-1528,3996.2,3520
+GoFirst,30,4,2022,5,14:15,21:05,jaipur,Bengaluru,6h 50m,E,1 stop,4349,20211230-1528,3996.2,3520
+GoFirst,30,4,2022,5,19:05,01:30,jaipur,Bengaluru,6h 25m,E,1 stop,4349,20211230-1528,3996.2,3520
