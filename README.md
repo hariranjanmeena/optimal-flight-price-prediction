@@ -1,6 +1,6 @@
 # Predicting-Flight-Ticket-Pricing-Using-Machine-Learning
 
-web app link - 
+Web app - [flight-optimal-time-predictor](https://flight-optimal-time-predictor.herokuapp.com/)
 
 ![Python 3.9](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-ScikitLearn-orange.svg)
 
@@ -43,12 +43,35 @@ Feature scarpped :
 - price: The price of the ticket
 - timestamp: booking time
 
+## Exploratory data analysis
+
+- no. of rows are greater than 12000+ and columns is 16 col
+
+<img src="https://github.com/hariranjanmeena/optimal-flight-price-prediction/blob/17ab750080daa15341c89bd0a9df29bb6b308ea7/image/eda.PNG" width="500" height="400" />
+
+- Approx. 98.91173881731615 % of flights belongs to top 5 airline companies - IndiGo, Air India, GoFirst, AirAsia India, SpiceJet and rest are multiple airlines
+
+![alt text](https://github.com/hariranjanmeena/optimal-flight-price-prediction/blob/17ab750080daa15341c89bd0a9df29bb6b308ea7/image/corr.PNG)
+
+
+<img src="https://github.com/hariranjanmeena/optimal-flight-price-prediction/blob/d3e97c351e6a0019e06f05427a89ece17974e134/image/1.PNG" width="800" height="300" />
+<img src="https://github.com/hariranjanmeena/optimal-flight-price-prediction/blob/d3e97c351e6a0019e06f05427a89ece17974e134/image/2.PNG" width="800" height="300" />
+<img src="https://github.com/hariranjanmeena/optimal-flight-price-prediction/blob/d3e97c351e6a0019e06f05427a89ece17974e134/image/3.PNG" width="800" height="300" />
+<img src="https://github.com/hariranjanmeena/optimal-flight-price-prediction/blob/d3e97c351e6a0019e06f05427a89ece17974e134/image/4.PNG" width="800" height="300" />
 
 ## ML Framework:
 Assume a customer decides to purchase a ticket for a particular flight at time = X
 hours before departure. The optimal time to purchase the ticket t_opt is:
 - in the range [X hours before dep., 4 hours before dep.]
 - time at which we achieve minimum flight price until departure
+
+## Model Building - 
+
+Applied model - 
+
+- DecisionTree regressor
+- XGBoost regressor
+- Deep learning model
 
 ## Installation
 The Code is written in Python 3.9. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
@@ -60,6 +83,11 @@ pip install -r requirements.txt
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+
+
+Web app - [flight-optimal-time-predictor](https://flight-optimal-time-predictor.herokuapp.com/)
+
+![alt text](https://github.com/hariranjanmeena/optimal-flight-price-prediction/blob/cf1cbf0f03e7db892ed8fac916e31e01af149ab5/image/webapp3.PNG)
 
 
 ## Directory Tree 
